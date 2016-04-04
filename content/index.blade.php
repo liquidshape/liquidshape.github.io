@@ -508,7 +508,7 @@
                 <div class="col-md-12">
                     <div class="text-center">
                         <h3 class="text-uppercase">News and stories</h3>
-                        <p>From our Blog</p>
+                        <p><a href="@url('blog')">From our Blog</a></p>
                     </div><!--center heading-->
                 </div>
             </div><!--center heading-->
